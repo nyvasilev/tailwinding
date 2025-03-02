@@ -37,11 +37,11 @@
 					<h2 class="mt-10 text-center font-serif text-5xl">{plan.storage}</h2>
 					<h3 class="mt-2 text-center">{plan.price}</h3>
 					<div class="flex justify-center">
-						<a
-							href="#"
+						<button
 							class="my-6 inline-block rounded-lg border border-violet-600 px-10 py-3 text-center duration-200 hover:border-violet-800 hover:bg-violet-800"
-							class:bg-violet-600={plan.id === 2}>Purchase</a
-						>
+							class:bg-violet-600={plan.id === 2}
+							>Purchase
+						</button>
 					</div>
 				</div>
 
