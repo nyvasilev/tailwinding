@@ -6,7 +6,7 @@
 	<div class="mx-6 rounded-2xl bg-zinc-800 p-2">
 		<div class="flex flex-col rounded-l-xl md:flex-row">
 			<img
-				src="/email-subscribe-card/email-image.jpg"
+				src="email-subscribe-card/email-image.jpg"
 				alt="email"
 				class="object-fit h-80 transform rounded-xl duration-200 hover:scale-105 hover:rounded-xl md:h-64 md:rounded-l-xl md:rounded-r-none"
 			/>

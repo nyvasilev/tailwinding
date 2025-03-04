@@ -7,7 +7,7 @@
 		class="m-3 flex flex-col space-y-10 rounded-2xl bg-white p-6 shadow-2xl md:m-0 md:flex-row md:space-y-0 md:space-x-10 md:p-16"
 	>
 		<div>
-			<img src="/product-modal/headphone.png" alt="head-phones" class="mx-auto w-60 duration-200 hover:scale-105" />
+			<img src="product-modal/headphone.png" alt="head-phones" class="mx-auto w-60 duration-200 hover:scale-105" />
 		</div>
 
 		<div>
@@ -44,13 +44,13 @@
 						<button
 							class="hover:bg-opacity-30 5 flex items-center justify-center space-x-3 rounded-lg border-2 border-gray-300 px-5 py-3 shadow-sm transition-all duration-150 hover:translate-y-0 hover:shadow-lg"
 						>
-							<img src="/product-modal/weight.png" alt="weight" class="w-8" />
+							<img src="product-modal/weight.png" alt="weight" class="w-8" />
 							<span>Add to cart</span>
 						</button>
 						<button
 							class="hover:bg-opacity-30 5 flex items-center justify-center space-x-3 rounded-lg border-2 border-gray-300 px-5 py-3 shadow-sm transition-all duration-150 hover:translate-y-0 hover:shadow-lg"
 						>
-							<img src="/product-modal/heart.png" alt="heart" class="w-8" />
+							<img src="product-modal/heart.png" alt="heart" class="w-8" />
 							<span>Add to wishlist</span>
 						</button>
 					</div>
