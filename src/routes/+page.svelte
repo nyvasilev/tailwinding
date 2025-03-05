@@ -6,3 +6,4 @@
 <a href={routePath.pricingcards}>Pricing Cards</a>
 <a href={routePath.productModal}>Product Modal</a>
 <a href={routePath.imageGallery}>Image Gallery</a>
+<a href={routePath.loginModal}>Login Modal</a>
