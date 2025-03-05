@@ -41,7 +41,7 @@
 
 			<div class="mt-12 border-b border-b-gray-300"></div>
 			<p class="py-6 text-sm font-thin text-center text-gray-400">or log in with</p>
-			<div class="flex flex-col space-x-0 space-y-6 md:flex-row md:space-x-4 md:space-y-0">
+			<div class="flex flex-col space-x-0 space-y-6 md:flex-row md:space-x-4 md:space-y-0 md:-mx-1">
 				<button
 					class="flex items-center justify-center py-2 space-x-3 border border-gray-300 rounded shadow-sm hover:bg-opacity-30 hover:shadowl-lg hover:translate-y-0.5 transition duration-150 md:w-1/2"
 				>
@@ -57,7 +57,7 @@
 			</div>
 		</div>
 
-		<img src="login-modal/login-modal-image.jpg" alt="" class="w-[430px] hidden md:block" />
+		<img src="login-modal/login-modal-image.jpg" alt="" class="w-[430px] hidden md:block rounded-r-xl" />
 
 		<div
 			class="group absolute top-5 right-4 flex items-center justify-center w-10 h-10 bg-gray-200 rounded-full md:bg-white hover:cursor-pointer hover:translate-y-0.5 transition duration-150"
