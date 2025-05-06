@@ -3,5 +3,6 @@ export const routePath = {
 	pricingcards: '/tailwinding/pricing-cards',
 	productModal: '/tailwinding/product-modal',
 	imageGallery: '/tailwinding/image-gallery',
-	loginModal: '/tailwinding/login-modal'
+	loginModal: '/tailwinding/login-modal',
+	clipboardWebsite: '/tailwinding/clipboard-website'
 };

@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+@theme {
+	--*: initial;
+	/* theme breakpoints */
+	--breakpoint-sm: 480px;
+	--breakpoint-md: 768px;
+	--breakpoint-lg: 976px;
+	--breakpoint-xl: 1440px;
+	/* colors  */
+	--colors-strongCyan: okchl(44% 0.13 172);
+	--colors-lightBlue: okchl(71% 0.22 255);
+	--colors-darkGrayishBlue: okchl(35% 0.02 226);
+	--colors-grayishBlue: okchl(68% 0.03 226);
+	/* font  */
+	--font-sans: 'Bai Jamjuree', sans-serif;
+}
