@@ -11,4 +11,25 @@
 	/>
 </svelte:head>
 
-<div>Clipboard website</div>
+<main>
+	<seciton id="hero">
+		<div class="max-w-6xl mx-auto text-center mb-40 px-10 pt-16">
+			<img src="clipboard-website/logo.svg" alt="" class="mx-auto my-16" />
+			<h3 class="mb-8 text 4xl font-bold text-darkGrayishBlue md:text-5xl">A History of everything you copy</h3>
+			<p class="max-w-3xl mx-auto mb-10 text-2xl text-grayishBlue">
+				Clipboard allows you track and organize everything you copy. Intantly access your clipboard on all your devices.
+			</p>
+
+			<div
+				class="flex flex-col justify-center w-full space-y-6 text xl text-white md:flex-row md:space-y-0 md:space-x-4"
+			>
+				<a href="#" class="p-4 px-8 rounded-full shadow-lg bg-strongCyan duration-200 hover:opacity-80"
+					>Download for iOS</a
+				>
+				<a href="#" class="p-4 px-8 rounded-full shadow-lg bg-lightBlue duration-200 hover:opacity-80"
+					>Download for Mac</a
+				>
+			</div>
+		</div>
+	</seciton>
+</main>
